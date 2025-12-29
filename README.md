@@ -1,2 +1,2 @@
-# Solve-code-
-Logic solve some hard or medium excercise
+# Leet code solution
+My solutions for algorithmic problems (LeetCode, HackerRank) using C++.
