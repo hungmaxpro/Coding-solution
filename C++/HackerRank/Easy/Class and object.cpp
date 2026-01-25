@@ -5,6 +5,7 @@
 #include <algorithm>
 #include <cassert>
 using namespace std;
+
 class Student{
     private:
     int diem[5];
